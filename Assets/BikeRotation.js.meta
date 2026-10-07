@@ -1,0 +1,46 @@
+- !<AssetImportMetadata/fcb5daec-374c-4f62-ac2d-fdfb5fba23a6>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> a31bde27-613d-4700-b8c0-ed5ea51d2176
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> a31bde27-613d-4700-b8c0-ed5ea51d2176
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> ec23a1f4-e028-4570-84ca-3a657dfecf1a
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/ec23a1f4-e028-4570-84ca-3a657dfecf1a>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 6f0ca6ab-327f-4de9-bc81-bf6882edf960
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    bike1: false
+    bike2: false
+    rotationSpeed: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - bike1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      bike2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      rotationSpeed: !<float> 30.000000
+  ScriptTypes:
+    -
+      {}

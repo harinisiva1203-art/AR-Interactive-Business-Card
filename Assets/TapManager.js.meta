@@ -1,0 +1,46 @@
+- !<AssetImportMetadata/75f88b4e-cb5f-4ce1-be5d-46a71e65cb3f>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 2138d518-786a-4796-83e4-5d2fb8d9fc74
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 2138d518-786a-4796-83e4-5d2fb8d9fc74
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 53434f86-61a7-4706-b8fb-3e054b47f25b
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/53434f86-61a7-4706-b8fb-3e054b47f25b>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 7f041c87-1cb1-4f96-a2d0-141397b5bcd3
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    bike1: false
+    bike2: false
+    bitmoji: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - bitmoji: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      bike1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      bike2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
